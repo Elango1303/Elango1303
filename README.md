@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Elango V!
 
 🎓 B.E. Computer Science & Engineering
+
 📍 India | 💻 Passionate about Web Development & AI/ML  
 🌱 Currently exploring: Deep Learning, Django, and AWS  
 🛠️ Building: Object Identification Web App using Keras & ResNet50  
