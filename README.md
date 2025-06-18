@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Elango V!
 
-🎓 Final Year B.E. Computer Science & Engineering Student  
+🎓 B.E. Computer Science & Engineering 
 📍 India | 💻 Passionate about Web Development & AI/ML  
 🌱 Currently exploring: Deep Learning, Django, and AWS  
 🛠️ Building: Object Identification Web App using Keras & ResNet50  
@@ -16,11 +16,6 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-![Elango's GitHub stats](https://github-readme-stats.vercel.app/api?username=elangov29&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elangov29&layout=compact&theme=radical)
 
 ---
 
@@ -32,9 +27,9 @@
 ---
 
 ## 📫 Connect with Me!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/elangovengadachalam/))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elango1303elango@gmail.com)
+
 
 ---
 
