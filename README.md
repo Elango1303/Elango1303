@@ -72,13 +72,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Elango's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elango1303&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elango1303&layout=compact&theme=radical)
-
----
 
 ## 📫 Connect with Me!
 
